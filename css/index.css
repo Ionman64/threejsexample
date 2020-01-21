@@ -1,0 +1,10 @@
+body {
+    overflow: hidden;
+}
+
+canvas {
+    height:calc(100vh - 2em);
+    width:calc(100vw - 2em);
+    margin:0.5em;
+    border:1px solid black;
+}
